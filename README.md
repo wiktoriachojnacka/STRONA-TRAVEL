@@ -1,4 +1,4 @@
-# STRONA-TRAVEL
+# TRAVEL SIDE
 <br>
 
 ## Side main page appearance after opening
